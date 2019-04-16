@@ -2,6 +2,8 @@
 # Samsung Multiple Display Control (MDC) protocol
 #
 # I made this simple program to disable the child lock of my Samsung 460DR-S Screens
+#
+# Use Pyton 2.x!
 
 import serial
   
